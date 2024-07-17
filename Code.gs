@@ -1,3 +1,10 @@
+/** 
+ * This work is licensed under CC BY-SA 4.0
+ * Author: Michał Kukla
+ * Website: https://michalkukla.pl
+ * Email: michal@kukla.tech
+*/
+
 // Function to update all pivot table ranges in the active spreadsheet
 function updateAllPivotTableRanges() {
   var spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
