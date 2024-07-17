@@ -1,4 +1,4 @@
-# Update Google Sheets pivot table's ranges automatically
+# Pivot Table Range Updater
 
 ## How does it work?
 
@@ -33,5 +33,9 @@ Example of the spreadsheet can be found here: https://docs.google.com/spreadshee
 
 If you want help with automations, spreadsheets or custom integrations, you can reach me at michal@kukla.tech
 
-Author: Michał Kukla
-Website: https://michalkukla.pl
+
+|Author|Website|
+|---|---|
+|Michał Kukla|https://michalkukla.pl|
+
+This work is licensed under CC BY-SA 4.0 
